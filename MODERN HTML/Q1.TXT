@@ -1,0 +1,7 @@
+LIST OUT THE FEATURES OF HTML.
+The Features of HTML are as follows:
+1. Senamtic tags.
+2. Audio and Video support.
+3. Responsive Images
+4. Form Enhancements
+5. Makes the code easier to read and understand.

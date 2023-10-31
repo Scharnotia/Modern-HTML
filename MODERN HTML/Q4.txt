@@ -1,0 +1,5 @@
+QUESTION4- List  any 3 ways which help us  in improving the accessibility of HTML.
+The three basic ways of improving the accessibility of a Website would be :
+1. By using Meta tags.
+2. Declare the language.
+3. Using Senamtic tags.
